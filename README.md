@@ -92,7 +92,7 @@ You can view a detailed PDF presentation of the project [here](./presentation.pd
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/nback-fc-classification.git
+   git clone https://github.com/Arianafshar2003/nback-fc-classification.git
    cd nback-fc-classification
 2. Install required packages (e.g., via requirements.txt):
    ```bash
